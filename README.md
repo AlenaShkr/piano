@@ -7,4 +7,4 @@ Black keys will change to pink #f40082
 When a user clicks on a specific key, it will play an audio clip.  
 If a user clicks on one key, then immediately clicks on a second key. The 2 files should both play. Meaning, clicking on one key will not stop an existing audio file from playing.  
 
-[ссылка](alenashkr.github.io/piano)
+[ссылка]( https://alenashkr.github.io/piano/)
